@@ -19,6 +19,7 @@ body {
     display: inline;
     font-size: 12px;
     font-weight: 700;
+    line-height: 24px;
     margin-right: 4px;
 }
 
@@ -32,3 +33,15 @@ body {
     font-family: 'JetBrains Mono';
     line-height: 24px;
 }
+
+.h6 {
+    font-size: 18px;
+    line-height : 24px;
+    font-weight: 800;
+}
+
+.subtitle {
+    font-size: 14px;
+    line-height: 20px;
+}
+
